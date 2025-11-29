@@ -1,0 +1,18 @@
+CO_ID: Anonymized contract number, unique identifier.
+USER_CREATED_BY: Identifier of the user who created the entry.
+MSISDN: Anonymized mobile phone number, unique.
+POS_MSISDN: Point of Sale ID, where the contract was sold/initiated.
+Plan_Name: Name of the plan subscribed to.
+ACTIVE_DATE: Activation date of the service.
+DEACTIVE_DATE: Deactivation date of the service.
+Customer Tenure: Duration between activation and deactivation/current date.
+Tenure Category: Categorization of tenure into segments like short-term, medium-term, long-term.
+STATUS: Current status of the line (Active, Suspended, etc.).
+Status Reason: Reason behind the current status.
+SEGMENT1, SEGMENT2: Customer segmentation categories.
+Churn Flag: Indicator of whether a customer has discontinued the service.
+Customer Interaction Score: Frequency/quality of interactions with customer service.
+Loyalty Points: Points assigned based on tenure, status, and segment.
+Data Usage Tier: Classification based on presumed data usage (3:High, 2:Medium, 1:Low).
+Customer Segment Change Flag: Indicates if a customer changed segments.
+DISTRIBUTER: Entity/shop responsible for service distribution or activation.
