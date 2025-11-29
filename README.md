@@ -3,7 +3,7 @@ Hello! This is a curated collection of my academic and technical projects comple
 This repository is organized into two main categories:
 
 ## Data Science & AI Projects  
-Projects focused on analytics, machine learning, NLP, big data, and applied data engineering.
+Projects focused on analytics  machine learning, NLP, big data, and applied data engineering.
 
 Includes work on:
 - Predictive & prescriptive analytics  
